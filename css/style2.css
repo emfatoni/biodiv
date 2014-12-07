@@ -1,0 +1,110 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 10000px;
+	background-color: #95f200;
+}
+#static{
+	width: 100%;
+	position: absolute;
+}
+#op-text{
+	position: absolute;
+	top: 200px;
+	left: 160px;
+}
+
+#cell1{
+	position: absolute;
+	top: 239px;
+	left: 670px;
+}
+#tree{
+	position: absolute;
+	width: 100%;
+	top: 330px;
+}
+#bacteria{
+	position: absolute;
+	top: 570px;
+	left: 530px;
+	width: 237px;
+}
+#vermes{
+	position: absolute;
+	top: 1070px;
+	left: 550px;
+	width: 172px;
+}
+#jellyfish{
+	position: absolute;
+	top: 1550px;
+	left: 560px;
+	width: 160px;
+}
+#fish1{
+	position: absolute;
+	top: 2070px;
+	left: 100px;
+}
+#fish2{
+	position: absolute;
+	top: 2040px;
+	left: 790px;
+}
+#lizard{
+	position: absolute;
+	top: 2450px;
+	left: 50px;
+}
+#frog{
+	position: absolute;
+	top: 2450px;
+	left: 470px;
+	width: 150px;
+}
+#tortoise1{
+	position: absolute;
+	top: 2420px;
+	left: 650px;
+}
+#tortoise2{
+	position: absolute;
+	top: 2450px;
+	left: 1050px;
+}
+#panda{
+	position: absolute;
+	top: 2900px;
+	left: 300px;
+	width: 250px;
+}
+#rhino{
+	position: absolute;
+	top: 2900px;
+	left: 620px;
+	width: 350px;
+}
+#tiger{
+	position: absolute;
+	top: 3360px;
+	left: 20px;
+	width: 350px;
+}
+#pobear{
+	position: absolute;
+	top: 3360px;
+	left: 510px;
+	width: 350px;
+}
+#ape{
+	position: absolute;
+	top: 3220px;
+	left: 980px;
+	height: 350px;
+}

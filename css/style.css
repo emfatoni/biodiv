@@ -18,8 +18,15 @@ body{
 	top: 200px;
 	left: 180px;
 }
-#cell1, #cell2, #cell3, #cell4{
+#cell1, #cell2, #cell3, #cell4, #cell5{
 	position: absolute;
 	top: 239px;
 	left: 701px;
+}
+
+#body{
+	position: absolute;
+	left: 520px;
+	top: 66px;
+	display: none;
 }
